@@ -1,44 +1,97 @@
 {
   "theme": {
-    "bg": {
-      "default": {
-        "value": "#171717",
-        "type": "color"
+    "page-background": {
+      "neutral": {
+        "value": "#001729",
+        "type": "color",
+        "description": "gray 95"
       },
-      "subtle": {
-        "value": "#323232",
-        "type": "color"
-      },
-      "muted": {
-        "value": "#757575",
+      "secondary": {
+        "value": "#001F38",
         "type": "color"
       }
     },
-    "fg": {
-      "default": {
-        "value": "#ffffff",
+    "element-background": {
+      "neutral-primary": {
+        "value": "#17334A",
         "type": "color"
       },
-      "onAccent": {
-        "value": "#ffffff",
+      "neutral-secondary": {
+        "value": "#455C6E",
         "type": "color"
       },
-      "muted": {
-        "value": "#eeeeee",
+      "inverted-primary": {
+        "value": "#E7EAEC",
         "type": "color"
       },
-      "subtle": {
-        "value": "#9e9e9e",
+      "neutral-tertiary": {
+        "value": "#000000",
         "type": "color"
       }
     },
-    "accent": {
-      "default": {
-        "value": "#3d53f5",
+    "text": {
+      "primary": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "inverted": {
+        "value": "#001729",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#D0D6DA",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#B9C1C8",
         "type": "color"
       },
       "subtle": {
-        "value": "#060818",
+        "value": "#108287",
+        "type": "color"
+      }
+    },
+    "interaction": {
+      "primary": {
+        "value": "#18b1b9",
+        "type": "color"
+      },
+      "success": {
+        "value": "#0ad687",
+        "type": "color"
+      },
+      "error": {
+        "value": "#fe8577",
+        "type": "color"
+      },
+      "primary-hover": {
+        "value": "#44ced4",
+        "type": "color"
+      }
+    },
+    "article": {
+      "case-study-text": {
+        "value": "#d0cffe",
+        "type": "color"
+      },
+      "case-study-back": {
+        "value": "#0a007b",
+        "type": "color"
+      },
+      "news": {
+        "value": "#44ced4",
+        "type": "color"
+      },
+      "news-back": {
+        "value": "#022d2f",
+        "type": "color"
+      },
+      "blog": {
+        "value": "#f0c6f2",
+        "type": "color"
+      },
+      "blog-back": {
+        "value": "#371138",
         "type": "color"
       }
     }

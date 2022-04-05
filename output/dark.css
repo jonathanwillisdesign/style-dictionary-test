@@ -1,11 +1,23 @@
 .dark-theme {
-          --theme-bg-default: #171717;
-  --theme-bg-subtle: #323232;
-  --theme-bg-muted: #757575;
-  --theme-fg-default: #ffffff;
-  --theme-fg-on-accent: #ffffff;
-  --theme-fg-muted: #eeeeee;
-  --theme-fg-subtle: #9e9e9e;
-  --theme-accent-default: #3d53f5;
-  --theme-accent-subtle: #060818;
+          --theme-page-background-neutral: #001729;
+  --theme-page-background-secondary: #001F38;
+  --theme-element-background-neutral-primary: #17334A;
+  --theme-element-background-neutral-secondary: #455C6E;
+  --theme-element-background-inverted-primary: #E7EAEC;
+  --theme-element-background-neutral-tertiary: #000000;
+  --theme-text-primary: #FFFFFF;
+  --theme-text-inverted: #001729;
+  --theme-text-secondary: #D0D6DA;
+  --theme-text-tertiary: #B9C1C8;
+  --theme-text-subtle: #108287;
+  --theme-interaction-primary: #18b1b9;
+  --theme-interaction-success: #0ad687;
+  --theme-interaction-error: #fe8577;
+  --theme-interaction-primary-hover: #44ced4;
+  --theme-article-case-study-text: #d0cffe;
+  --theme-article-case-study-back: #0a007b;
+  --theme-article-news: #44ced4;
+  --theme-article-news-back: #022d2f;
+  --theme-article-blog: #f0c6f2;
+  --theme-article-blog-back: #371138;
       }
